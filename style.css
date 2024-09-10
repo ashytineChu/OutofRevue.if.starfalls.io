@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFFFFF; /* 白色背景 */
+    color: #000000; /* 黑色文字 */
+    text-align: center; /* 文字居中 */
+    padding: 20px;
+}
+
+h1 {
+    color: #000000; /* 黑色標題 */
+}
+
+img {
+    max-width: 100%; /* 圖片自適應屏幕寬度 */
+    height: auto;
+}
